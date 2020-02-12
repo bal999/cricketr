@@ -8,7 +8,7 @@ or from Github as follows
 library(devtools)
 install_github("tvganesh/cricketr")
 library(cricketr)
-
+[![Run on Repl.it](https://repl.it/badge/github/bal999/cricketr)](https://repl.it/github/bal999/cricketr)
 Details of this package can be read from my blog Giga thoughts in [Introducing cricketr: A R package for analyzing performances of cricketer](https://gigadom.wordpress.com/2015/07/04/introducing-cricketr-a-r-package-to-analyze-performances-of-cricketers/)
 
 Also see my other posts in R and cricket
